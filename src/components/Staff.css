@@ -1,0 +1,22 @@
+.staff {
+    width: 2rem;
+    margin: 0.8rem 0;
+}
+
+.line {
+    position: relative;
+    border-bottom: 0.1rem solid black;
+}
+
+.space {
+    position: relative;
+    height: 0.7rem;
+}
+
+.space .Note {
+    top: -0.1rem;
+}
+
+.line .Note {
+    top: -0.4rem;
+}

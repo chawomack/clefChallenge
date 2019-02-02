@@ -1,0 +1,8 @@
+.Note {
+    width: 1.1rem;
+    height: 0.8rem;
+    margin: 0.1rem;
+    border-radius: 0.5rem 0.3rem;
+    background: black;
+    position: absolute;
+}
